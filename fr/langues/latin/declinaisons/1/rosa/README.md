@@ -7,7 +7,7 @@
 | :--: | --------- | ------- |
 | N.   | ROSA      | ROSAE   |
 | V.   | ROSA      | ROSAE   |
-| Acc. | ROSM      | ROSAS   |
+| Acc. | ROSAM     | ROSAS   |
 | G.   | ROSAE     | ROSARUM |
 | D.   | ROSAE     | ROSIS   |
 | Abl. | ROSA      | ROSIS   |

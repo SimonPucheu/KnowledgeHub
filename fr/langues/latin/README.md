@@ -9,3 +9,8 @@
 * [5e](declinaisons/5/)
 
 ## [Conjugaisons](conjugaisons/)
+* [1re](conjugaisons/1/)
+* [2e](conjugaisons/2/)
+* [3e](conjugaisons/3/)
+* [3e mixte](conjugaisons/3_mixte/)
+* [4e](conjugaisons/4/)
