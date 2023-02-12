@@ -1,5 +1,6 @@
-# 1re déclinaison
-## ROSA (modèle)
+# [Latin](/fr/langues/latin/)
+## [Déclinaisons](/fr/langues/latin/declinaisons/)
+### Cas et fonctions
 
 | Cas       | Fonction                 |
 | --------- | ------------------------ |

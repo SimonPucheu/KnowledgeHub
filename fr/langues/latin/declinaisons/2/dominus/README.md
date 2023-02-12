@@ -1,5 +1,7 @@
-# 2e déclinaison
-## DOMINUS (modèle)
+# [Latin](/fr/langues/latin/)
+## [Déclinaisons](/fr/langues/latin/declinaisons/)
+### [2e déclinaison](/fr/langues/latin/declinaisons/2/)
+#### DOMINUS, I, M. (modèle)
 
 | Cas  | Singulier | Pluriel   |
 | :--: | --------- | --------- |

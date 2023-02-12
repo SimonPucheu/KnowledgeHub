@@ -1,5 +1,7 @@
-# 1re déclinaison
-## ROSA (modèle)
+# [Latin](/fr/langues/latin/)
+## [Déclinaisons](/fr/langues/latin/declinaisons/)
+### [1re déclinaison](/fr/langues/latin/declinaisons/1/)
+#### ROSA, AE, F. (modèle)
 
 | Cas  | Singulier | Pluriel |
 | :--: | --------- | ------- |
