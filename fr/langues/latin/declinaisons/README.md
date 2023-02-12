@@ -1,27 +1,27 @@
-# [Latin](/fr/langues/latin/)
+# [Latin](../)
 ## Déclinaisons
 
 En latin, les noms se déclinent selon six cas, au singulier et au pluriel. Il existe cinq modèles de déclinaison.
 
-[Cas et fonctions](/fr/langues/latin/declinaisons/cas/)
+[Cas et fonctions](cas/)
 
-### [1re](/fr/langues/latin/declinaisons/1/)
-* [ROSA, AE, F. (modèle)](/fr/langues/latin/declinaisons/1/rosa/)
+### [1re](1/)
+* [ROSA, AE, F. (modèle)](1/rosa/)
 
-### [2e](/fr/langues/latin/declinaisons/2/)
-* [DOMINUS, I, M. (modèle)](/fr/langues/latin/declinaisons/2/dominus/)
+### [2e](2/)
+* [DOMINUS, I, M. (modèle)](2/dominus/)
 
-### [2e neutre](/fr/langues/latin/declinaisons/2_neutre/)
-* [TEMPLUM, I, N. (modèle)](/fr/langues/latin/declinaisons/2_neutre/templum/)
+### [2e neutre](2_neutre/)
+* [TEMPLUM, I, N. (modèle)](2_neutre/templum/)
 
-### [3e](/fr/langues/latin/declinaisons/3/)
-* [LEX, LEGIS, F. (modèle)](/fr/langues/latin/declinaisons/3/lex/)
+### [3e](3/)
+* [LEX, LEGIS, F. (modèle)](3/lex/)
 
-### [3e neutre](/fr/langues/latin/declinaisons/3_neutre/)
-* [CORPUS, CORPORIS, N. (modèle)](/fr/langues/latin/declinaisons/3_neutre/corpus/)
+### [3e neutre](3_neutre/)
+* [CORPUS, CORPORIS, N. (modèle)](3_neutre/corpus/)
 
-### [4e](/fr/langues/latin/declinaisons/4/)
-* [MANUS, US, F. (modèle)](/fr/langues/latin/declinaisons/4/manus/)
+### [4e](4/)
+* [MANUS, US, F. (modèle)](4/manus/)
 
-### [5e](/fr/langues/latin/declinaisons/5/)
-* [RES, REI, M. (modèle)](/fr/langues/latin/declinaisons/5/res/)
+### [5e](5/)
+* [RES, REI, M. (modèle)](5/res/)
