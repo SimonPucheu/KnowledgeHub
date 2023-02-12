@@ -1,6 +1,6 @@
-# [Latin](/fr/langues/latin/)
-## [Déclinaisons](/fr/langues/latin/declinaisons/)
-### [3e déclinaison](/fr/langues/latin/declinaisons/3/)
+# [Latin](../../../)
+## [Déclinaisons](../../)
+### [3e déclinaison](../)
 ## LEX, LEGIS, F. (modèle)
 
 | Cas  | Singulier | Pluriel   |

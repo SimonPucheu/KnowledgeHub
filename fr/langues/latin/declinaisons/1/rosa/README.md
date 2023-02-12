@@ -1,6 +1,6 @@
-# [Latin](/fr/langues/latin/)
-## [Déclinaisons](/fr/langues/latin/declinaisons/)
-### [1re déclinaison](/fr/langues/latin/declinaisons/1/)
+# [Latin](../../../)
+## [Déclinaisons](../../)
+### [1re déclinaison](../)
 #### ROSA, AE, F. (modèle)
 
 | Cas  | Singulier | Pluriel |

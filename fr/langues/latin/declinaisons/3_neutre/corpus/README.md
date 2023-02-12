@@ -1,6 +1,6 @@
-# [Latin](/fr/langues/latin/)
-## [Déclinaisons](/fr/langues/latin/declinaisons/)
-### [3e déclinaison neutre](/fr/langues/latin/declinaisons/3_neutre/)
+# [Latin](../../../)
+## [Déclinaisons](../../)
+### [3e déclinaison neutre](../)
 ## CORPUS, CORPORIS, N. (modèle)
 
 | Cas  | Singulier | Pluriel    |

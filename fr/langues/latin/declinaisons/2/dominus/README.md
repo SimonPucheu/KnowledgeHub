@@ -1,6 +1,6 @@
-# [Latin](/fr/langues/latin/)
-## [Déclinaisons](/fr/langues/latin/declinaisons/)
-### [2e déclinaison](/fr/langues/latin/declinaisons/2/)
+# [Latin](../../../)
+## [Déclinaisons](../../)
+### [2e déclinaison](../)
 #### DOMINUS, I, M. (modèle)
 
 | Cas  | Singulier | Pluriel   |

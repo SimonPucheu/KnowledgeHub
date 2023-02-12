@@ -1,6 +1,6 @@
-# [Latin](/fr/langues/latin/)
-## [Déclinaisons](/fr/langues/latin/declinaisons/)
-### [5e déclinaison](/fr/langues/latin/declinaisons/5/)
+# [Latin](../../../)
+## [Déclinaisons](../../)
+### [5e déclinaison](../)
 #### RES, REI, F. (modèle)
 
 | Cas  | Singulier | Pluriel   |

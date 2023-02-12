@@ -1,5 +1,5 @@
-# [Latin](/fr/langues/latin/)
-## [Déclinaisons](/fr/langues/latin/declinaisons/)
+# [Latin](../../)
+## [Déclinaisons](../)
 ### Cas et fonctions
 
 | Cas       | Fonction                 |
