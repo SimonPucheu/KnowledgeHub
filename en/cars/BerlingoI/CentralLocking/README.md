@@ -2,6 +2,8 @@
 ## Central locking
 https://berlingoforum.com/thread-7251.html
 
+***
+
 **central locking** - *HansW* - `09-07-2013`
 
 Hi
@@ -25,6 +27,8 @@ in the Berlingo's / partners, does such a relay exist and if so where is it?
 Or, is this function integrated in the BSI unit and managed electronically?
 If so, -- this would mean, that likewise the BSI is faulty,---
 
+***
+
 **RE: central locking** - *mikeB* - `11-07-2013`
 
 Hi. My 2005 Berlingo Multispace behaved exactly as yours does, i.e. it would lock but not unlock. The key in the drivers door unlocks only that door.
@@ -33,6 +37,8 @@ The problem with mine was in the BSI. You need to remove it completely. There ar
 First of all, do the battery disconnect procedure (see other threads on this forum) then remove the connectors, then remove the BSI. You will see that the BSI is contained within a 2 part plastic case. Remove the case (needs care) which reveals 2 boards, one atop the other. One board contains the computer which contains all the intelligence, the other has the relays which do all the switching and carry the heavy currents needed. The boards are connected by (from memory) 2 sets of expanding pins. These pins are prone to going open circuit, especially if they ever get damp or wet. Separate the two boards (needs care as they are delicate) and minutely examine the pins and the sockets they mesh with. Make sure there is no trace of corrosion in either the pins or the sockets. Reassemble using an electrical lubricant. I used Briggs SKL switch cleaner lubricant. It prevents corrosion and conducts electricity. There are others available. See the CPC (Farnell) website for more info on this.
 Reassemble the boards carefully , then the covers and reinsert the multipin connectors. I was elated when it all worked perfectly. That was a year ago and it still works. I hope it does for you. The problem was in the signals from the computer not getting to the relay which opens the doors.
 
+***
+
 **RE: central locking** - *HansW* - `14-07-2013`
 
 Thanks Mike, -- I had a similar idea, but now have a fair idea. I have to think about it, -- in terms of worst case scenario etc. but it looks to be a do-able thing.
@@ -40,6 +46,8 @@ I will report back.
 I got as far as having the boards here on the desk, but I am unable to separate them -- They seem to be clued together, -- is there a trick, and what is it to separate them without damaging the boards? does the black plastic stay with the top or the bottom?
 Meanwhile, i discovered traces of oxidation on one multiplug, so cleaned up the pins and now will see, if that was the problem, ---
 All back in again, and no betterment,--
+
+***
 
 **RE: central locking** - *mikeB* - `14-07-2013`
 
@@ -53,6 +61,8 @@ So the best course of action is to separate the boards and have a good look for 
 
 A further thought - if you found corrosion on a multiplug this is evidence that it has been wet at some time. The pins MUST be suspect. Another observation - when the key fob was clicked to open the doors the lights flashed but no noise from the doors. Also the tailgate didn't lock at all.
 
+***
+
 **RE: central locking** - *HansW* - `14-07-2013`
 
 Hi Mike
@@ -63,6 +73,8 @@ I have a second complete unit, where there is no water damage, -- so my plan was
 Did that in the meantime, -- all together and it WORKS!
 So, thanks for the help here.
 
+***
+
 **RE: central locking** - *mikeB* - `14-07-2013`
 
 Your strategy is spot on. A new servo board would be a good way.
@@ -71,11 +83,15 @@ To separate the boards I suggest a flat, soft tool, slightly wider than the dist
 
 PS Have you tried to separate the boards on your spare BSI. Good practice I think!
 
+***
+
 **RE: central locking** - *HansW* - `14-07-2013`
 
 cross posting -- of course I separated the spare board first, -- scratched one of the circuits a little bit, but insulated it with glue, -- then separated the second board, cleaned up the pins with 400 sandpaper and checked them with the magnifying glass, -- put the old computer board to the new relais board, -- pressed with two bits of soft timber and have them as close as possible.
 We will see how this stands up the test of time!
 To be recommended!
+
+***
 
 **RE: central locking** - *mikeB* - `17-07-2013`
 

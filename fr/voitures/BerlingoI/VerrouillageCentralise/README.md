@@ -4,6 +4,8 @@ https://berlingoforum.com/thread-7251.html
 
 *Traduit de l'anglais* [Original](../../../../en/cars/BerlingoI/CentralLocking)
 
+***
+
 **verrouillage centralisé** - *HansW* - `09-07-2013`
 
 Salut
@@ -27,6 +29,8 @@ dans les Berlingo's/partenaires, un tel relais existe-t-il et si oui où se trou
 Ou cette fonction est-elle intégrée au boîtier BSI et gérée électroniquement ?
 Si c'est le cas, -- cela signifierait que le BSI est également défectueux, ---
 
+***
+
 **RE: verrouillage centralisé** - *mikeB* - `11-07-2013`
 
 Salut. Mon Berlingo Multispace 2005 se comportait exactement comme le vôtre, c'est-à-dire qu'il se verrouillait mais ne se déverrouillait pas. La clé dans la porte du conducteur ne déverrouille que cette porte.
@@ -35,6 +39,8 @@ Le problème avec le mien était dans le BSI. Vous devez le supprimer complètem
 Tout d'abord, faites la procédure de déconnexion de la batterie (voir les autres discussions sur ce forum) puis retirez les connecteurs, puis retirez le BSI. Vous verrez que le BSI est contenu dans un boîtier en plastique en 2 parties. Retirez l'étui (nécessite des soins) qui laisse apparaître 2 planches l'une au-dessus de l'autre. Une carte contient l'ordinateur qui contient toute l'intelligence, l'autre a les relais qui font toutes les commutations et transportent les courants lourds nécessaires. Les cartes sont connectées par (de mémoire) 2 jeux de broches extensibles. Ces broches sont sujettes à un circuit ouvert, surtout si elles sont humides ou mouillées. Séparez les deux cartes (attention car elles sont délicates) et examinez minutieusement les broches et les douilles avec lesquelles elles s'engrènent. Assurez-vous qu'il n'y a aucune trace de corrosion dans les broches ou les douilles. Remonter à l'aide d'un lubrifiant électrique. J'ai utilisé le lubrifiant nettoyant pour interrupteurs Briggs SKL. Il empêche la corrosion et conduit l'électricité. Il y en a d'autres disponibles. Consultez le site Web du CPC (Farnell) pour plus d'informations à ce sujet.
 Remontez soigneusement les cartes, puis les capots et réinsérez les connecteurs multibroches. J'étais ravi quand tout fonctionnait parfaitement. C'était il y a un an et ça marche toujours. J'espère que c'est le cas pour vous. Le problème était que les signaux de l'ordinateur n'atteignaient pas le relais qui ouvre les portes.
 
+***
+
 **RE : verrouillage centralisé** - *HansW* - `14-07-2013`
 
 Merci Mike, - J'avais une idée similaire, mais j'ai maintenant une idée juste. Je dois y penser, - en termes de pire scénario, etc., mais cela semble être une chose faisable.
@@ -42,6 +48,8 @@ Je ferai rapport.
 Je suis allé jusqu'à avoir les planches ici sur le bureau, mais je suis incapable de les séparer -- Ils semblent être liés ensemble, -- y a-t-il une astuce, et qu'est-ce que c'est pour les séparer sans endommager les planches ? le plastique noir reste-t-il avec le haut ou le bas ?
 Entre-temps, j'ai découvert des traces d'oxydation sur une multiprise, j'ai donc nettoyé les broches et je vais maintenant voir, si c'était le problème, ---
 Tous de retour, et pas d'amélioration,--
+
+***
 
 **RE: verrouillage centralisé** - *mikeB* - `14-07-2013`
 
@@ -55,6 +63,8 @@ La meilleure chose à faire est donc de séparer les planches et de bien regarde
 
 Une autre réflexion - si vous avez trouvé de la corrosion sur une multiprise, c'est la preuve qu'elle a été mouillée à un moment donné. Les broches DOIVENT être suspectes. Une autre observation - lorsque le porte-clés a été cliqué pour ouvrir les portes, les lumières ont clignoté mais aucun bruit ne provenait des portes. De plus, le hayon ne se fermait pas du tout.
 
+***
+
 **RE : verrouillage centralisé** - *HansW* - `14-07-2013`
 
 Salut Mike
@@ -65,6 +75,8 @@ J'ai une deuxième unité complète, où il n'y a pas de dégâts d'eau, -- donc
 Je l'ai fait entre-temps, -- tous ensemble et ça MARCHE !
 Donc, merci pour l'aide ici.
 
+***
+
 **RE: verrouillage centralisé** - *mikeB* - `14-07-2013`
 
 Votre stratégie est au rendez-vous. Une nouvelle carte servo serait un bon moyen.
@@ -73,11 +85,15 @@ Pour séparer les planches, je suggère un outil plat et souple, légèrement pl
 
 PS Avez-vous essayé de séparer les cartes sur votre BSI de rechange. Bonne pratique je pense !
 
+***
+
 **RE : verrouillage centralisé** - *HansW* - `14-07-2013`
 
 affichage croisé - bien sûr, j'ai d'abord séparé la carte de rechange, - j'ai un peu rayé l'un des circuits, mais je l'ai isolé avec de la colle, - puis j'ai séparé la deuxième carte, nettoyé les broches avec du papier de verre 400 et les ai vérifiées avec le loupe, -- mettre l'ancienne carte informatique sur la nouvelle carte relais, -- presser avec deux morceaux de bois tendre et les rapprocher le plus possible.
 Nous verrons comment cela résiste à l'épreuve du temps!
 A recommander !
+
+***
 
 **RE: verrouillage centralisé** - *mikeB* - `17-07-2013`
 
