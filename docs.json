@@ -6,6 +6,7 @@
             "status":
             {
                 "title": "HTTP response status codes",
+                "ref": "RFC 9110",
                 "description_type": "markdown",
                 "description": "All the HTTP response status codes following the [RFC 9110](https://httpwg.org/specs/rfc9110.html#overview.of.status.codes)",
                 "content_type": "markdown",
