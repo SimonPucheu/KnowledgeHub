@@ -1,0 +1,296 @@
+<xml>
+	<folder name="universe">
+		<folder name="constants">
+			<file name="speed_of_light">
+				<title>Speed Of Light</title>
+				<data type="speed" unit="ms">299792458</data>
+			</file>
+		</folder>
+	</folder>
+	<folder name="web">
+		<folder name="http">
+			<file name="status">
+				<data type="http.response.code">
+					<code>100</code>
+					<message>Continue</message>
+					<description>The server has received the request headers and the client should proceed to send the request body.</description>
+				</data>
+				<data type="http.response.code">
+					<code>101</code>
+					<message>Switching Protocols</message>
+					<description>The requester has asked the server to switch protocols and the server has agreed to do so.</description>
+				</data>
+				<data type="http.response.code">
+					<code>102</code>
+					<message>Processing</message>
+					<description>The server is currently processing the request, but has not yet completed.</description>
+				</data>
+				<data type="http.response.code">
+					<code>200</code>
+					<message>OK</message>
+					<description>The request has succeeded.</description>
+				</data>
+				<data type="http.response.code">
+					<code>201</code>
+					<message>Created</message>
+					<description>The request has been fulfilled, resulting in the creation of a new resource.</description>
+				</data>
+				<data type="http.response.code">
+					<code>202</code>
+					<message>Accepted</message>
+					<description>The request has been accepted for processing, but the processing has not been completed.</description>
+				</data>
+				<data type="http.response.code">
+					<code>204</code>
+					<message>No Content</message>
+					<description>The server has successfully fulfilled the request and there is no additional content to send in the response payload body.</description>
+				</data>
+				<data type="http.response.code">
+					<code>206</code>
+					<message>Partial Content</message>
+					<description>The server has fulfilled the partial GET request for the resource.</description>
+				</data>
+				<data type="http.response.code">
+					<code>207</code>
+					<message>Multi-Status</message>
+					<description>The message body contains multiple status codes.</description>
+				</data>
+				<data type="http.response.code">
+					<code>208</code>
+					<message>Already Reported</message>
+					<description>The members of a DAV binding have already been enumerated in a previous reply to this request, and are not being included again.</description>
+				</data>
+				<data type="http.response.code">
+					<code>226</code>
+					<message>IM Used</message>
+					<description>The server has fulfilled a request for the resource, and the response is a representation of the result of one or more instance-manipulations applied to the current instance.</description>
+				</data>
+				<data type="http.response.code">
+					<code>300</code>
+					<message>Multiple Choices</message>
+					<description>The requested resource corresponds to any one of a set of representations, each with its own specific location, and agent-driven negotiation information is being provided so that the user (or user agent) can select a preferred representation and redirect its request to that location.</description>
+				</data>
+				<data type="http.response.code">
+					<code>301</code>
+					<message>Moved Permanently</message>
+					<description>The requested resource has been assigned a new permanent URI and any future references to this resource should use one of the returned URIs.</description>
+				</data>
+				<data type="http.response.code">
+					<code>302</code>
+					<message>Found</message>
+					<description>The requested resource resides temporarily under a different URI.</description>
+				</data>
+				<data type="http.response.code">
+					<code>303</code>
+					<message>See Other</message>
+					<description>The response to the request can be found under a different URI and should be retrieved using a GET method on that resource.</description>
+				</data>
+				<data type="http.response.code">
+					<code>304</code>
+					<message>Not Modified</message>
+					<description>The requested resource has not been modified since the last time the client accessed it, and there is no need to send it again.</description>
+				</data>
+				<data type="http.response.code">
+					<code>305</code>
+					<message>Use Proxy</message>
+					<description>The requested resource is available only through a proxy, whose address is provided in the response.</description>
+				</data>
+				<data type="http.response.code">
+					<code>306</code>
+					<message>Switch Proxy</message>
+					<description>This status code is no longer used, but was defined in a previous version of the HTTP/1.1 specification.</description>
+				</data>
+				<data type="http.response.code">
+					<code>307</code>
+					<message>Temporary Redirect</message>
+					<description>The requested resource resides temporarily under a different URI and the client should follow the redirect with a GET method.</description>
+				</data>
+				<data type="http.response.code">
+					<code>308</code>
+					<message>Permanent Redirect</message>
+					<description>The requested resource has been assigned a new permanent URI and any future references to this resource ought to use one of the enclosed URIs.</description>
+				</data>
+				<data type="http.response.code">
+					<code>400</code>
+					<message>Bad Request</message>
+					<description>The request could not be understood by the server due to malformed syntax, invalid request message framing, or deceptive request routing.</description>
+				</data>
+				<data type="http.response.code">
+					<code>401</code>
+					<message>Unauthorized</message>
+					<description>The request requires authentication.</description>
+				</data>
+				<data type="http.response.code">
+					<code>402</code>
+					<message>Payment Required</message>
+					<description>The server requires payment.</description>
+				</data>
+				<data type="http.response.code">
+					<code>403</code>
+					<message>Forbidden</message>
+					<description>The server refused to fulfill the request.</description>
+				</data>
+				<data type="http.response.code">
+					<code>404</code>
+					<message>Not Found</message>
+					<description>The requested resource was not found.</description>
+				</data>
+				<data type="http.response.code">
+					<code>405</code>
+					<message>Method Not Allowed</message>
+					<description>The method specified in the request is not allowed.</description>
+				</data>
+				<data type="http.response.code">
+					<code>406</code>
+					<message>Not Acceptable</message>
+					<description>The server cannot produce a response matching the list of acceptable values.</description>
+				</data>
+				<data type="http.response.code">
+					<code>407</code>
+					<message>Proxy Authentication Required</message>
+					<description>The client must first authenticate itself with the proxy.</description>
+				</data>
+				<data type="http.response.code">
+					<code>408</code>
+					<message>Request Timeout</message>
+					<description>The server timed out waiting for the request.</description>
+				</data>
+				<data type="http.response.code">
+					<code>409</code>
+					<message>Conflict</message>
+					<description>The request could not be completed due to a conflict with the current state of the target resource.</description>
+				</data>
+				<data type="http.response.code">
+					<code>410</code>
+					<message>Gone</message>
+					<description>The requested resource is no longer available and will not be available again.</description>
+				</data>
+				<data type="http.response.code">
+					<code>411</code>
+					<message>Length Required</message>
+					<description>The server requires a Content-Length header.</description>
+				</data>
+				<data type="http.response.code">
+					<code>412</code>
+					<message>Precondition Failed</message>
+					<description>The server does not meet one of the preconditions specified by the client.</description>
+				</data>
+				<data type="http.response.code">
+					<code>413</code>
+					<message>Payload Too Large</message>
+					<description>The server refuses to process the request because the payload is too large.</description>
+				</data>
+				<data type="http.response.code">
+					<code>414</code>
+					<message>URI Too Long</message>
+					<description>The server refuses to process the request because the URI is too long.</description>
+				</data>
+				<data type="http.response.code">
+					<code>415</code>
+					<message>Unsupported Media Type</message>
+					<description>The server refuses to process the request because the media type is not supported.</description>
+				</data>
+				<data type="http.response.code">
+					<code>416</code>
+					<message>Range Not Satisfiable</message>
+					<description>The requested range cannot be satisfied by the server.</description>
+				</data>
+				<data type="http.response.code">
+					<code>417</code>
+					<message>Expectation Failed</message>
+					<description>The server cannot meet the requirements of the Expect header in the request.</description>
+				</data>
+				<data type="http.response.code">
+					<code>418</code>
+					<message>I'm a teapot</message>
+					<description>This code was defined in 1998 as one of the traditional IETF April Fools' jokes, in RFC 2324, Hyper Text Coffee Pot Control Protocol, and is not expected to be implemented by actual HTTP servers.</description>
+				</data>
+				<data type="http.response.code">
+					<code>419</code>
+					<message>Authentication Timeout</message>
+					<description>The previously valid authentication has expired. This status code is not specified in any RFCs. Its use has been standardized in some APIs.</description>
+				</data>
+				<data type="http.response.code">
+					<code>420</code>
+					<message>Enhance Your Calm</message>
+					<description>This code is used in the Twitter API to indicate that the client has exceeded the rate limit.</description>
+				</data>
+				<data type="http.response.code">
+					<code>421</code>
+					<message>Misdirected Request</message>
+					<description>The request was directed at a server that is not able to produce a response. This can be sent by a server that is not configured to produce responses for the combination of scheme and authority that are included in the request URI.</description>
+				</data>
+				<data type="http.response.code">
+					<code>422</code>
+					<message>Unprocessable Entity</message>
+					<description>The request was well-formed but was unable to be followed due to semantic errors.</description>
+				</data>
+				<data type="http.response.code">
+					<code>423</code>
+					<message>Locked</message>
+					<description>The resource that is being accessed is locked.</description>
+				</data>
+				<data type="http.response.code">
+					<code>424</code>
+					<message>Failed Dependency</message>
+					<description>The request failed because it depended on another request and that request failed (e.g., a PROPPATCH).</description>
+				</data>
+				<data type="http.response.code">
+					<code>426</code>
+					<message>Upgrade Required</message>
+					<description>The client should switch to a different protocol such as TLS/1.0, given in the Upgrade header field.</description>
+				</data>
+				<data type="http.response.code">
+					<code>428</code>
+					<message>Precondition Required</message>
+					<description>The origin server requires the request to be conditional.</description>
+				</data>
+				<data type="http.response.code">
+					<code>429</code>
+					<message>Too Many Requests</message>
+					<description>The user has sent too many requests in a given amount of time. Intended for use with rate-limiting schemes.</description>
+				</data>
+				<data type="http.response.code">
+					<code>431</code>
+					<message>Request Header Fields Too Large</message>
+					<description>The server is unwilling to process the request because either an individual header field, or all the header fields collectively, are too large.</description>
+				</data>
+				<data type="http.response.code">
+					<code>451</code>
+					<message>Unavailable For Legal Reasons</message>
+					<description>The user requests an illegal resource, such as a web page censored by a government.</description>
+				</data>
+				<data type="http.response.code">
+					<code>500</code>
+					<message>Internal Server Error</message>
+					<description>The server encountered an unexpected condition that prevented it from fulfilling the request.</description>
+				</data>
+				<data type="http.response.code">
+					<code>501</code>
+					<message>Not Implemented</message>
+					<description>The server does not support the functionality required to fulfill the request.</description>
+				</data>
+				<data type="http.response.code">
+					<code>502</code>
+					<message>Bad Gateway</message>
+					<description>The server, while acting as a gateway or proxy, received an invalid response from the upstream server it accessed in attempting to fulfill the request.</description>
+				</data>
+				<data type="http.response.code">
+					<code>503</code>
+					<message>Service Unavailable</message>
+					<description>The server is currently unable to handle the request due to a temporary overload or maintenance of the server.</description>
+				</data>
+				<data type="http.response.code">
+					<code>504</code>
+					<message>Gateway Timeout</message>
+					<description>The server, while acting as a gateway or proxy, did not receive a timely response from the upstream server it accessed in attempting to fulfill the request.</description>
+				</data>
+				<data type="http.response.code">
+					<code>505</code>
+					<message>HTTP Version Not Supported</message>
+					<description>The server does not support the HTTP protocol version used in the request.</description>
+				</data>
+			</file>
+		</folder>
+	</folder>
+</xml>

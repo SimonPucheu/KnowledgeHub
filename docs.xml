@@ -1,0 +1,14 @@
+<xml>
+    <folder name="web">
+        <folder name="http">
+            <file name="status">
+                <title>HTTP response status codes</title>
+                <ref>RFC 9110</ref>
+                <description type="text/markdown">
+                    All the HTTP response status codes following the [RFC 9110](https://httpwg.org/specs/rfc9110.html#overview.of.status.codes)
+                </description>
+                <content type="text/markdown">## Codes\n${file: data/web/http/status, display: table}</content>
+            </file>
+        </folder>
+    </folder>
+</xml>

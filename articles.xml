@@ -1,0 +1,11 @@
+<xml>
+    <file name="lorem-ipsum">
+        <title>Lorem Ipsum</title>
+        <description type="text/plain">
+            This is an article example
+        </description>
+        <content type="text/markdown">
+            # Title 1\nLorem ipsum dolor sit amet consectetur adipisicing elit. Ex veniam corrupti rem dolorum a nesciunt, suscipit explicabo voluptatibus ea maxime aut aliquam quaerat sequi possimus ducimus aliquid quis eaque error?\n## Subtitle 1\nLorem ipsum dolor sit amet consectetur adipisicing elit. Ex veniam corrupti rem dolorum a nesciunt, suscipit explicabo voluptatibus ea maxime aut aliquam quaerat sequi possimus ducimus aliquid quis eaque error?\n## Subtitle 2\nLorem ipsum dolor sit amet consectetur adipisicing elit. Ex veniam corrupti rem dolorum a nesciunt, suscipit explicabo voluptatibus ea maxime aut aliquam quaerat sequi possimus ducimus aliquid quis eaque error?\n# Title 2\nLorem ipsum dolor sit amet consectetur adipisicing elit. Ex veniam corrupti rem dolorum a nesciunt, suscipit explicabo voluptatibus ea maxime aut aliquam quaerat sequi possimus ducimus aliquid quis eaque error?\n## Subtitle\nLorem ipsum dolor sit amet consectetur adipisicing elit. Ex veniam corrupti rem dolorum a nesciunt, suscipit explicabo voluptatibus ea maxime aut aliquam quaerat sequi possimus ducimus aliquid quis eaque error?\n### Subsubtitle\nLorem ipsum dolor sit amet consectetur adipisicing elit. Ex veniam corrupti rem dolorum a nesciunt, suscipit explicabo voluptatibus ea maxime aut aliquam quaerat sequi possimus ducimus aliquid quis eaque error?
+        </content>
+    </file>
+</xml>
