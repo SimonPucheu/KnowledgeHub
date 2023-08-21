@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<folder xmlns="https://simonpucheu.github.io" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmnls:shemaLocation="https://simonpucheu.github.io/KnowledgeHub/shema.xsd">
+<folder xmlns="https://simonpucheu.github.io" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:shemaLocation="https://simonpucheu.github.io/KnowledgeHub/shema.xsd">
 	<folder name="alphabet">
 		<file name="nato">
 			<title>NATO Phonetic Alphabet <i>or Internation Radiotelephony Spelling Alphabet</i></title>
