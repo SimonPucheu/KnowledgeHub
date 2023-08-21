@@ -1,4 +1,94 @@
-<xml>
+<?xml version="1.0"?>
+<folder xmlns="https://simonpucheu.github.io" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmnls:shemaLocation="https://simonpucheu.github.io/KnowledgeHub/shema.xsd">
+	<folder name="alphabet">
+		<file name="nato">
+			<title>NATO Phonetic Alphabet <i>or Internation Radiotelephony Spelling Alphabet</i></title>
+			<data type="alphabet.letter">Alpha</data>
+			<data type="alphabet.letter">Bravo</data>
+			<data type="alphabet.letter">Charlie</data>
+			<data type="alphabet.letter">Delta</data>
+			<data type="alphabet.letter">Echo</data>
+			<data type="alphabet.letter">Foxtrot</data>
+			<data type="alphabet.letter">Golf</data>
+			<data type="alphabet.letter">Hotel</data>
+			<data type="alphabet.letter">India</data>
+			<data type="alphabet.letter">Juliett</data>
+			<data type="alphabet.letter">Kilo</data>
+			<data type="alphabet.letter">Lima</data>
+			<data type="alphabet.letter">Mike</data>
+			<data type="alphabet.letter">November</data>
+			<data type="alphabet.letter">Oscar</data>
+			<data type="alphabet.letter">Papa</data>
+			<data type="alphabet.letter">Quebec</data>
+			<data type="alphabet.letter">Romeo</data>
+			<data type="alphabet.letter">Sierra</data>
+			<data type="alphabet.letter">Tango</data>
+			<data type="alphabet.letter">Uniform</data>
+			<data type="alphabet.letter">Victor</data>
+			<data type="alphabet.letter">Whiskey</data>
+			<data type="alphabet.letter">XRay</data>
+			<data type="alphabet.letter">Yankee</data>
+			<data type="alphabet.letter">Zulu</data>
+		</file>
+		<file name="latin">
+			<title>Latin Alphabet <i>or Roman Alphabet</i></title>
+			<data type="alphabet.letter">A</data>
+			<data type="alphabet.letter">B</data>
+			<data type="alphabet.letter">C</data>
+			<data type="alphabet.letter">D</data>
+			<data type="alphabet.letter">E</data>
+			<data type="alphabet.letter">F</data>
+			<data type="alphabet.letter">G</data>
+			<data type="alphabet.letter">H</data>
+			<data type="alphabet.letter">I</data>
+			<data type="alphabet.letter">J</data>
+			<data type="alphabet.letter">K</data>
+			<data type="alphabet.letter">L</data>
+			<data type="alphabet.letter">M</data>
+			<data type="alphabet.letter">N</data>
+			<data type="alphabet.letter">O</data>
+			<data type="alphabet.letter">P</data>
+			<data type="alphabet.letter">Q</data>
+			<data type="alphabet.letter">R</data>
+			<data type="alphabet.letter">S</data>
+			<data type="alphabet.letter">T</data>
+			<data type="alphabet.letter">U</data>
+			<data type="alphabet.letter">V</data>
+			<data type="alphabet.letter">W</data>
+			<data type="alphabet.letter">X</data>
+			<data type="alphabet.letter">Y</data>
+			<data type="alphabet.letter">Z</data>
+		</file>
+		<file name="morse">
+			<title><i>International</i> Morse Code</title>
+			<data type="morse.letter">10111</data>
+			<data type="morse.letter">111010101</data>
+			<data type="morse.letter">11101011101</data>
+			<data type="morse.letter">1110101</data>
+			<data type="morse.letter">1</data>
+			<data type="morse.letter">101011101</data>
+			<data type="morse.letter">111011101</data>
+			<data type="morse.letter">1010101</data>
+			<data type="morse.letter">101</data>
+			<data type="morse.letter">1011101110111</data>
+			<data type="morse.letter">1110101111</data>
+			<data type="morse.letter">101110101</data>
+			<data type="morse.letter">1110111</data>
+			<data type="morse.letter">11101</data>
+			<data type="morse.letter">11101110111</data>
+			<data type="morse.letter">10111011101</data>
+			<data type="morse.letter">1110111010111</data>
+			<data type="morse.letter">1011101</data>
+			<data type="morse.letter">10101</data>
+			<data type="morse.letter">111</data>
+			<data type="morse.letter">1010111</data>
+			<data type="morse.letter">101010111</data>
+			<data type="morse.letter">101110111</data>
+			<data type="morse.letter">11101010111</data>
+			<data type="morse.letter">1110101110111</data>
+			<data type="morse.letter">11101110101</data>
+		</file>
+	</folder>
 	<folder name="universe">
 		<folder name="constants">
 			<file name="speed_of_light">
@@ -293,4 +383,4 @@
 			</file>
 		</folder>
 	</folder>
-</xml>
+</folder>
