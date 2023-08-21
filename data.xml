@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <folder xmlns="https://simonpucheu.github.io" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:shemaLocation="https://simonpucheu.github.io/KnowledgeHub/shema.xsd">
 	<folder name="alphabet">
+		<title>Alphabet</title>
 		<file name="nato">
 			<title>NATO Phonetic Alphabet <i>or Internation Radiotelephony Spelling Alphabet</i></title>
 			<data type="alphabet.letter">Alpha</data>
@@ -58,6 +59,60 @@
 			<data type="alphabet.letter">X</data>
 			<data type="alphabet.letter">Y</data>
 			<data type="alphabet.letter">Z</data>
+		</file>
+		<file name="greek">
+			<title>Greek Alphabet</title>
+			<data type="alphabet.letter">α</data>
+			<data type="alphabet.letter">β</data>
+			<data type="alphabet.letter">γ</data>
+			<data type="alphabet.letter">δ</data>
+			<data type="alphabet.letter">ε</data>
+			<data type="alphabet.letter">ζ</data>
+			<data type="alphabet.letter">η</data>
+			<data type="alphabet.letter">θ</data>
+			<data type="alphabet.letter">ι</data>
+			<data type="alphabet.letter">κ</data>
+			<data type="alphabet.letter">λ</data>
+			<data type="alphabet.letter">μ</data>
+			<data type="alphabet.letter">ν</data>
+			<data type="alphabet.letter">ξ</data>
+			<data type="alphabet.letter">ο</data>
+			<data type="alphabet.letter">π</data>
+			<data type="alphabet.letter">ρ</data>
+			<data type="alphabet.letter">σς</data>
+			<data type="alphabet.letter">τ</data>
+			<data type="alphabet.letter">υ</data>
+			<data type="alphabet.letter">φ</data>
+			<data type="alphabet.letter">χ</data>
+			<data type="alphabet.letter">ψ</data>
+			<data type="alphabet.letter">ω</data>
+		</file>
+		<file name="greek_phonetical">
+			<title>Greek Phonetical Alphabet</title>
+			<data type="alphabet.letter">Alpha</data>
+			<data type="alphabet.letter">Beta</data>
+			<data type="alphabet.letter">Gamma</data>
+			<data type="alphabet.letter">Delta</data>
+			<data type="alphabet.letter">Epsilon</data>
+			<data type="alphabet.letter">Zeta</data>
+			<data type="alphabet.letter">Eta</data>
+			<data type="alphabet.letter">Theta</data>
+			<data type="alphabet.letter">Iota</data>
+			<data type="alphabet.letter">Kappa</data>
+			<data type="alphabet.letter">Lambda</data>
+			<data type="alphabet.letter">Mu</data>
+			<data type="alphabet.letter">Nu</data>
+			<data type="alphabet.letter">Xi</data>
+			<data type="alphabet.letter">Omicron</data>
+			<data type="alphabet.letter">Pi</data>
+			<data type="alphabet.letter">Rho</data>
+			<data type="alphabet.letter">Sigmaς</data>
+			<data type="alphabet.letter">Tau</data>
+			<data type="alphabet.letter">Upsilon</data>
+			<data type="alphabet.letter">Phi</data>
+			<data type="alphabet.letter">Chi</data>
+			<data type="alphabet.letter">Psi</data>
+			<data type="alphabet.letter">Omega</data>
 		</file>
 		<file name="morse">
 			<title><i>International</i> Morse Code</title>
